@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="action_buscar">buscar</string>
+    <string name="action_nou">new</string>
+    <string name="back">back</string>
+    <string name="profile">profile</string>
+</resources>
